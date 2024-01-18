@@ -1,0 +1,6 @@
+@TeaHub.Server_HostAddress = http://localhost:5199
+
+GET {{TeaHub.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

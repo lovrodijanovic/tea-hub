@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaHub.Server", "TeaHub.Server\TeaHub.Server.csproj", "{0EEC1611-8CE3-43CB-BAE2-773B20FD6736}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "teahub.client", "teahub.client\teahub.client.esproj", "{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEC1611-8CE3-43CB-BAE2-773B20FD6736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEC1611-8CE3-43CB-BAE2-773B20FD6736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEC1611-8CE3-43CB-BAE2-773B20FD6736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEC1611-8CE3-43CB-BAE2-773B20FD6736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF2A05E-85B1-401F-8249-B6B9D106F3A9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC342F2A-C1BE-42B7-AED6-4BB5B043A382}
+	EndGlobalSection
+EndGlobal
